@@ -1,3 +1,5 @@
+🔗 **[ENGLISH](readme.md)**
+🔗 **[CHINESE](readme_chinese.md)**
 🔗 **[RUSSIAN](readme_russian.md)**
 
 # Installing OpenCV with CUDA Support on Windows 10
