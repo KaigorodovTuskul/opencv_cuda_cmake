@@ -1,10 +1,10 @@
-🔗 **[ENGLISH](readme.md)**
+🔗 **[ENGLISH](README.md)**
 🔗 **[CHINESE](readme_chinese.md)**
 🔗 **[RUSSIAN](readme_russian.md)**
 
 # Installing OpenCV with CUDA Support on Windows 10
 
-## System Requirements
+## My workspace example
 
 - **OS**: Windows 10 (64-bit)
 - **GPU**: NVIDIA GeForce 4070 TI Super (or any CUDA-supported GPU)
